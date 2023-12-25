@@ -7,5 +7,5 @@ python cli app that convert cheat codes for Nintendo Switch
 その他注意点はいくつかありますがまあてきとーに使ってください、命に危険を及ぼすことはないので。<br>
 
 # ※
-・使用はすべて自己責任とします。
+・使用はすべて自己責任とします。<br>
 ・This app is Japanese(?)
